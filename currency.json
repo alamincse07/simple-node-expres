@@ -1,0 +1,1251 @@
+{
+    "AED": {
+        "country_code": "AE",
+        "currency_code": "AED",
+        "currency_name": "United Arab Emirates Dirham",
+        "currency_symbol": "د.إ.‏",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 3.672987
+    },
+    "AFN": {
+        "country_code": "AF",
+        "currency_code": "AFN",
+        "currency_name": "Afghan Afghani",
+        "currency_symbol": "؋",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 76.996009
+    },
+    "ALL": {
+        "country_code": "AL",
+        "currency_code": "ALL",
+        "currency_name": "Albanian Lek",
+        "currency_symbol": "Lek",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 101.782793
+    },
+    "AMD": {
+        "country_code": "AM",
+        "currency_code": "AMD",
+        "currency_name": "Armenian Dram",
+        "currency_symbol": "դր.",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 481.616228
+    },
+    "ANG": {
+        "country_code": "SX",
+        "currency_code": "ANG",
+        "currency_name": "Antillean guilder",
+        "currency_symbol": "NAƒ.",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 1.795433
+    },
+    "AOA": {
+        "country_code": "AO",
+        "currency_code": "AOA",
+        "currency_name": "Angolan kwanza",
+        "currency_symbol": "Kz",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 657.321
+    },
+    "ARS": {
+        "country_code": "AR",
+        "currency_code": "ARS",
+        "currency_name": "Argentine Peso",
+        "currency_symbol": "$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 82.3669
+    },
+    "AUD": {
+        "country_code": "AU",
+        "currency_code": "AUD",
+        "currency_name": "Australian Dollar",
+        "currency_symbol": "$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 1.327919
+    },
+    "AWG": {
+        "country_code": "AW",
+        "currency_code": "AWG",
+        "currency_name": "Aruban florin",
+        "currency_symbol": "Afl",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 1.8
+    },
+    "AZN": {
+        "country_code": "AZ",
+        "currency_code": "AZN",
+        "currency_name": "Azerbaijani Manat",
+        "currency_symbol": "ман.",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 1.7025
+    },
+    "BAM": {
+        "country_code": "BA",
+        "currency_code": "BAM",
+        "currency_name": "Bosnia-Herzegovina Convertible Mark",
+        "currency_symbol": "KM",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 1.609405
+    },
+    "BBD": {
+        "country_code": "BB",
+        "currency_code": "BBD",
+        "currency_name": "Barbadian dollar",
+        "currency_symbol": "Bds$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 2
+    },
+    "BDT": {
+        "country_code": "BD",
+        "currency_code": "BDT",
+        "currency_name": "Bangladeshi Taka",
+        "currency_symbol": "৳",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 84.813816
+    },
+    "BGN": {
+        "country_code": "BG",
+        "currency_code": "BGN",
+        "currency_name": "Bulgarian Lev",
+        "currency_symbol": "лв.",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 1.610255
+    },
+    "BHD": {
+        "country_code": "BH",
+        "currency_code": "BHD",
+        "currency_name": "Bahraini Dinar",
+        "currency_symbol": "د.ب.‏",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 0.377035
+    },
+    "BIF": {
+        "country_code": "BI",
+        "currency_code": "BIF",
+        "currency_name": "Burundian Franc",
+        "currency_symbol": "FBu",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 1941.231755
+    },
+    "BMD": {
+        "country_code": "BM",
+        "currency_code": "BMD",
+        "currency_name": "Bermudian dollar",
+        "currency_symbol": "$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 1
+    },
+    "BND": {
+        "country_code": "BN",
+        "currency_code": "BND",
+        "currency_name": "Brunei Dollar",
+        "currency_symbol": "$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 1.332565
+    },
+    "BOB": {
+        "country_code": "BO",
+        "currency_code": "BOB",
+        "currency_name": "Bolivian Boliviano",
+        "currency_symbol": "Bs",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 6.916519
+    },
+    "BRL": {
+        "country_code": "BR",
+        "currency_code": "BRL",
+        "currency_name": "Brazilian Real",
+        "currency_symbol": "R$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 5.1192
+    },
+    "BSD": {
+        "country_code": "BS",
+        "currency_code": "BSD",
+        "currency_name": "Bahamian dollar",
+        "currency_symbol": "B$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 1
+    },
+    "BTN": {
+        "country_code": "BT",
+        "currency_code": "BTN",
+        "currency_name": "Bhutanese ngultrum",
+        "currency_symbol": "Nu",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 73.548814
+    },
+    "BWP": {
+        "country_code": "BW",
+        "currency_code": "BWP",
+        "currency_name": "Botswanan Pula",
+        "currency_symbol": "P",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 10.931413
+    },
+    "BYR": {
+        "country_code": "BY",
+        "currency_code": "BYR",
+        "currency_name": "Belarusian Ruble",
+        "currency_symbol": "BYR",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 0
+    },
+    "BZD": {
+        "country_code": "BZ",
+        "currency_code": "BZD",
+        "currency_name": "Belize Dollar",
+        "currency_symbol": "$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 2.016128
+    },
+    "CAD": {
+        "country_code": "CA",
+        "currency_code": "CAD",
+        "currency_name": "Canadian Dollar",
+        "currency_symbol": "$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 1.275981
+    },
+    "CDF": {
+        "country_code": "CD",
+        "currency_code": "CDF",
+        "currency_name": "Congolese Franc",
+        "currency_symbol": "FrCD",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 1969.607626
+    },
+    "CHF": {
+        "country_code": "LI",
+        "currency_code": "CHF",
+        "currency_name": "Swiss Franc",
+        "currency_symbol": "CHF",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 0.886601
+    },
+    "CLP": {
+        "country_code": "CL",
+        "currency_code": "CLP",
+        "currency_name": "Chilean Peso",
+        "currency_symbol": "$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 735.399708
+    },
+    "CNY": {
+        "country_code": "CN",
+        "currency_code": "CNY",
+        "currency_name": "Chinese Yuan",
+        "currency_symbol": "¥",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 6.5508
+    },
+    "COP": {
+        "country_code": "CO",
+        "currency_code": "COP",
+        "currency_name": "Colombian Peso",
+        "currency_symbol": "$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 3440.820716
+    },
+    "CRC": {
+        "country_code": "CR",
+        "currency_code": "CRC",
+        "currency_name": "Costa Rican Colón",
+        "currency_symbol": "₡",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 605.150961
+    },
+    "CUP": {
+        "country_code": "CU",
+        "currency_code": "CUP",
+        "currency_name": "Cuban Peso",
+        "currency_symbol": "$MN",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 25.75
+    },
+    "CVE": {
+        "country_code": "CV",
+        "currency_code": "CVE",
+        "currency_name": "Cape Verdean Escudo",
+        "currency_symbol": "CV$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 91.2
+    },
+    "CZK": {
+        "country_code": "CZ",
+        "currency_code": "CZK",
+        "currency_name": "Czech Republic Koruna",
+        "currency_symbol": "Kč",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 21.675
+    },
+    "DJF": {
+        "country_code": "DJ",
+        "currency_code": "DJF",
+        "currency_name": "Djiboutian Franc",
+        "currency_symbol": "Fdj",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 178.062083
+    },
+    "DKK": {
+        "country_code": "DK",
+        "currency_code": "DKK",
+        "currency_name": "Danish Krone",
+        "currency_symbol": "kr",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 6.12732
+    },
+    "DOP": {
+        "country_code": "DO",
+        "currency_code": "DOP",
+        "currency_name": "Dominican Peso",
+        "currency_symbol": "RD$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 58.159738
+    },
+    "DZD": {
+        "country_code": "DZ",
+        "currency_code": "DZD",
+        "currency_name": "Algerian Dinar",
+        "currency_symbol": "د.ج.‏",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 131.485
+    },
+    "EGP": {
+        "country_code": "EG",
+        "currency_code": "EGP",
+        "currency_name": "Egyptian Pound",
+        "currency_symbol": "ج.م.‏",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 15.7384
+    },
+    "ERN": {
+        "country_code": "ER",
+        "currency_code": "ERN",
+        "currency_name": "Eritrean Nakfa",
+        "currency_symbol": "Nfk",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 14.999792
+    },
+    "ETB": {
+        "country_code": "ET",
+        "currency_code": "ETB",
+        "currency_name": "Ethiopian Birr",
+        "currency_symbol": "Br",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 38.745253
+    },
+    "EUR": {
+        "country_code": "IE",
+        "currency_code": "EUR",
+        "currency_name": "Euro",
+        "currency_symbol": "€",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 0.823342
+    },
+    "FJD": {
+        "country_code": "FJ",
+        "currency_code": "FJD",
+        "currency_name": "Fijian Dollar",
+        "currency_symbol": "FJ$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 2.06065
+    },
+    "FKP": {
+        "country_code": "FK",
+        "currency_code": "FKP",
+        "currency_name": "Falkland Islands Pound",
+        "currency_symbol": "£",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 0.750216
+    },
+    "GBP": {
+        "country_code": "IM",
+        "currency_code": "GBP",
+        "currency_name": "British Pound Sterling",
+        "currency_symbol": "£",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 0.750216
+    },
+    "GEL": {
+        "country_code": "GE",
+        "currency_code": "GEL",
+        "currency_name": "Georgian Lari",
+        "currency_symbol": "GEL",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 3.3
+    },
+    "GHS": {
+        "country_code": "GH",
+        "currency_code": "GHS",
+        "currency_name": "Ghanaian Cedi",
+        "currency_symbol": "GH₵",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 5.868758
+    },
+    "GIP": {
+        "country_code": "GI",
+        "currency_code": "GIP",
+        "currency_name": "Gibraltar Pound",
+        "currency_symbol": "£",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 0.750216
+    },
+    "GMD": {
+        "country_code": "GM",
+        "currency_code": "GMD",
+        "currency_name": "Gambian dalasi",
+        "currency_symbol": "D",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 51.75
+    },
+    "GNF": {
+        "country_code": "GN",
+        "currency_code": "GNF",
+        "currency_name": "Guinean Franc",
+        "currency_symbol": "FG",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 9951.703146
+    },
+    "GTQ": {
+        "country_code": "GT",
+        "currency_code": "GTQ",
+        "currency_name": "Guatemalan Quetzal",
+        "currency_symbol": "Q",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 7.804238
+    },
+    "GYD": {
+        "country_code": "GY",
+        "currency_code": "GYD",
+        "currency_name": "Guyanese Dollar",
+        "currency_symbol": "G$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 209.224461
+    },
+    "HKD": {
+        "country_code": "HK",
+        "currency_code": "HKD",
+        "currency_name": "Hong Kong Dollar",
+        "currency_symbol": "$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 7.751837
+    },
+    "HNL": {
+        "country_code": "HN",
+        "currency_code": "HNL",
+        "currency_name": "Honduran Lempira",
+        "currency_symbol": "L",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 24.219017
+    },
+    "HRK": {
+        "country_code": "HR",
+        "currency_code": "HRK",
+        "currency_name": "Croatian Kuna",
+        "currency_symbol": "kn",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 6.1999
+    },
+    "HTG": {
+        "country_code": "HT",
+        "currency_code": "HTG",
+        "currency_name": "Haitian Gourde",
+        "currency_symbol": "G",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 71.065211
+    },
+    "HUF": {
+        "country_code": "HU",
+        "currency_code": "HUF",
+        "currency_name": "Hungarian Forint",
+        "currency_symbol": "Ft",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 291.639985
+    },
+    "IDR": {
+        "country_code": "ID",
+        "currency_code": "IDR",
+        "currency_name": "Indonesian Rupiah",
+        "currency_symbol": "Rp",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 14087.514094
+    },
+    "ILS": {
+        "country_code": "IL",
+        "currency_code": "ILS",
+        "currency_name": "Israeli New Sheqel",
+        "currency_symbol": "₪",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 3.26052
+    },
+    "INR": {
+        "country_code": "IN",
+        "currency_code": "INR",
+        "currency_name": "Indian Rupee",
+        "currency_symbol": "₹",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 73.641252
+    },
+    "IQD": {
+        "country_code": "IQ",
+        "currency_code": "IQD",
+        "currency_name": "Iraqi Dinar",
+        "currency_symbol": "د.ع.‏",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 1192.442993
+    },
+    "IRR": {
+        "country_code": "IR",
+        "currency_code": "IRR",
+        "currency_name": "Iranian Rial",
+        "currency_symbol": "﷼",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 42105
+    },
+    "ISK": {
+        "country_code": "IS",
+        "currency_code": "ISK",
+        "currency_name": "Icelandic Króna",
+        "currency_symbol": "kr",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 127.62
+    },
+    "JMD": {
+        "country_code": "JM",
+        "currency_code": "JMD",
+        "currency_name": "Jamaican Dollar",
+        "currency_symbol": "$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 143.031455
+    },
+    "JOD": {
+        "country_code": "JO",
+        "currency_code": "JOD",
+        "currency_name": "Jordanian Dinar",
+        "currency_symbol": "د.أ.‏",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 0.709
+    },
+    "JPY": {
+        "country_code": "JP",
+        "currency_code": "JPY",
+        "currency_name": "Japanese Yen",
+        "currency_symbol": "￥",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 104.02273529
+    },
+    "KES": {
+        "country_code": "KE",
+        "currency_code": "KES",
+        "currency_name": "Kenyan Shilling",
+        "currency_symbol": "Ksh",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 111.6
+    },
+    "KGS": {
+        "country_code": "KG",
+        "currency_code": "KGS",
+        "currency_name": "Kyrgyzstani Som",
+        "currency_symbol": "лв",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 84.797681
+    },
+    "KHR": {
+        "country_code": "KH",
+        "currency_code": "KHR",
+        "currency_name": "Cambodian Riel",
+        "currency_symbol": "៛",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 4059.704043
+    },
+    "KMF": {
+        "country_code": "KM",
+        "currency_code": "KMF",
+        "currency_name": "Comorian Franc",
+        "currency_symbol": "FC",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 405.774861
+    },
+    "KPW": {
+        "country_code": "KP",
+        "currency_code": "KPW",
+        "currency_name": "North Korean Won",
+        "currency_symbol": "₩",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 900
+    },
+    "KRW": {
+        "country_code": "KR",
+        "currency_code": "KRW",
+        "currency_name": "South Korean Won",
+        "currency_symbol": "₩",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 1093.05623
+    },
+    "KWD": {
+        "country_code": "KW",
+        "currency_code": "KWD",
+        "currency_name": "Kuwaiti Dinar",
+        "currency_symbol": "د.ك.‏",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 0.305243
+    },
+    "KYD": {
+        "country_code": "KY",
+        "currency_code": "KYD",
+        "currency_name": "Cayman Islands dollar",
+        "currency_symbol": "$.",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 0.833491
+    },
+    "KZT": {
+        "country_code": "KZ",
+        "currency_code": "KZT",
+        "currency_name": "Kazakhstani Tenge",
+        "currency_symbol": "тңг.",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 419.13202
+    },
+    "LAK": {
+        "country_code": "LA",
+        "currency_code": "LAK",
+        "currency_name": "Lao Kip",
+        "currency_symbol": "₭N",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 9284.068405
+    },
+    "LBP": {
+        "country_code": "LB",
+        "currency_code": "LBP",
+        "currency_name": "Lebanese Pound",
+        "currency_symbol": "ل.ل.‏",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 1514.117891
+    },
+    "LKR": {
+        "country_code": "LK",
+        "currency_code": "LKR",
+        "currency_name": "Sri Lankan Rupee",
+        "currency_symbol": "SL Re",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 187.191603
+    },
+    "LRD": {
+        "country_code": "LR",
+        "currency_code": "LRD",
+        "currency_name": "Liberian Dollar",
+        "currency_symbol": "L$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 161.499972
+    },
+    "LSL": {
+        "country_code": "LS",
+        "currency_code": "LSL",
+        "currency_name": "Lesotho Loti",
+        "currency_symbol": "pl.",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 15.016545
+    },
+    "LTL": {
+        "country_code": "LT",
+        "currency_code": "LTL",
+        "currency_name": "Lithuanian Litas",
+        "currency_symbol": "Lt",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 0
+    },
+    "LYD": {
+        "country_code": "LY",
+        "currency_code": "LYD",
+        "currency_name": "Libyan Dinar",
+        "currency_symbol": "د.ل.‏",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 1.345192
+    },
+    "MAD": {
+        "country_code": "MA",
+        "currency_code": "MAD",
+        "currency_name": "Moroccan Dirham",
+        "currency_symbol": "د.م.‏",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 9.305338
+    },
+    "MDL": {
+        "country_code": "MD",
+        "currency_code": "MDL",
+        "currency_name": "Moldovan Leu",
+        "currency_symbol": "MDL",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 17.163511
+    },
+    "MGA": {
+        "country_code": "MG",
+        "currency_code": "MGA",
+        "currency_name": "Malagasy Ariary",
+        "currency_symbol": "MGA",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 3862.456236
+    },
+    "MKD": {
+        "country_code": "MK",
+        "currency_code": "MKD",
+        "currency_name": "Macedonian Denar",
+        "currency_symbol": "MKD",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 50.7015
+    },
+    "MMK": {
+        "country_code": "MM",
+        "currency_code": "MMK",
+        "currency_name": "Myanma Kyat",
+        "currency_symbol": "K",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 1376.805424
+    },
+    "MNT": {
+        "country_code": "MN",
+        "currency_code": "MNT",
+        "currency_name": "Mongolian tögrög",
+        "currency_symbol": "₮",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 2852.069405
+    },
+    "MOP": {
+        "country_code": "MO",
+        "currency_code": "MOP",
+        "currency_name": "Macanese Pataca",
+        "currency_symbol": "MOP$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 7.98634
+    },
+    "MRO": {
+        "country_code": "MR",
+        "currency_code": "MRO",
+        "currency_name": "Mauritanian Ouguiya",
+        "currency_symbol": "UM",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 357
+    },
+    "MUR": {
+        "country_code": "MU",
+        "currency_code": "MUR",
+        "currency_name": "Mauritian Rupee",
+        "currency_symbol": "MURs",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 39.6
+    },
+    "MVR": {
+        "country_code": "MV",
+        "currency_code": "MVR",
+        "currency_name": "Maldivian rufiyaa",
+        "currency_symbol": "Rf",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 15.4
+    },
+    "MWK": {
+        "country_code": "MW",
+        "currency_code": "MWK",
+        "currency_name": "Malawian Kwacha",
+        "currency_symbol": "MK",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 764.982156
+    },
+    "MXN": {
+        "country_code": "MX",
+        "currency_code": "MXN",
+        "currency_name": "Mexican Peso",
+        "currency_symbol": "$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 20.24312
+    },
+    "MYR": {
+        "country_code": "MY",
+        "currency_code": "MYR",
+        "currency_name": "Malaysian Ringgit",
+        "currency_symbol": "RM",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 4.0535
+    },
+    "MZN": {
+        "country_code": "MZ",
+        "currency_code": "MZN",
+        "currency_name": "Mozambican Metical",
+        "currency_symbol": "MTn",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 74.542008
+    },
+    "NAD": {
+        "country_code": "NA",
+        "currency_code": "NAD",
+        "currency_name": "Namibian Dollar",
+        "currency_symbol": "N$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 15.05
+    },
+    "NGN": {
+        "country_code": "NG",
+        "currency_code": "NGN",
+        "currency_name": "Nigerian Naira",
+        "currency_symbol": "₦",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 384.160126
+    },
+    "NIO": {
+        "country_code": "NI",
+        "currency_code": "NIO",
+        "currency_name": "Nicaraguan Córdoba",
+        "currency_symbol": "C$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 34.85071
+    },
+    "NOK": {
+        "country_code": "NO",
+        "currency_code": "NOK",
+        "currency_name": "Norwegian Krone",
+        "currency_symbol": "kr",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 8.736947
+    },
+    "NPR": {
+        "country_code": "NP",
+        "currency_code": "NPR",
+        "currency_name": "Nepalese Rupee",
+        "currency_symbol": "नेरू",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 117.677825
+    },
+    "NZD": {
+        "country_code": "CK",
+        "currency_code": "NZD",
+        "currency_name": "New Zealand Dollar",
+        "currency_symbol": "$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 1.41243
+    },
+    "OMR": {
+        "country_code": "OM",
+        "currency_code": "OMR",
+        "currency_name": "Omani Rial",
+        "currency_symbol": "ر.ع.‏",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 0.384981
+    },
+    "PAB": {
+        "country_code": "PA",
+        "currency_code": "PAB",
+        "currency_name": "Panamanian Balboa",
+        "currency_symbol": "B/.",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 1
+    },
+    "PEN": {
+        "country_code": "PE",
+        "currency_code": "PEN",
+        "currency_name": "Peruvian Nuevo Sol",
+        "currency_symbol": "S/.",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 3.591801
+    },
+    "PGK": {
+        "country_code": "PG",
+        "currency_code": "PGK",
+        "currency_name": "Papua New Guinean Kina",
+        "currency_symbol": "K",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 3.516763
+    },
+    "PHP": {
+        "country_code": "PH",
+        "currency_code": "PHP",
+        "currency_name": "Philippine Peso",
+        "currency_symbol": "₱",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 48.045186
+    },
+    "PKR": {
+        "country_code": "PK",
+        "currency_code": "PKR",
+        "currency_name": "Pakistani Rupee",
+        "currency_symbol": "₨",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 160.357358
+    },
+    "PLN": {
+        "country_code": "PL",
+        "currency_code": "PLN",
+        "currency_name": "Polish Zloty",
+        "currency_symbol": "zł",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 3.656309
+    },
+    "PYG": {
+        "country_code": "PY",
+        "currency_code": "PYG",
+        "currency_name": "Paraguayan Guarani",
+        "currency_symbol": "₲",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 7002.207005
+    },
+    "QAR": {
+        "country_code": "QA",
+        "currency_code": "QAR",
+        "currency_name": "Qatari Rial",
+        "currency_symbol": "ر.ق.‏",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 3.641361
+    },
+    "RON": {
+        "country_code": "RO",
+        "currency_code": "RON",
+        "currency_name": "Romanian Leu",
+        "currency_symbol": "RON",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 4.0071
+    },
+    "RSD": {
+        "country_code": "RS",
+        "currency_code": "RSD",
+        "currency_name": "Serbian Dinar",
+        "currency_symbol": "дин.",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 96.835
+    },
+    "RUB": {
+        "country_code": "RU",
+        "currency_code": "RUB",
+        "currency_name": "Russian Ruble",
+        "currency_symbol": "₽",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 73.827991
+    },
+    "RWF": {
+        "country_code": "RW",
+        "currency_code": "RWF",
+        "currency_name": "Rwandan Franc",
+        "currency_symbol": "FR",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 986.811424
+    },
+    "SAR": {
+        "country_code": "SA",
+        "currency_code": "SAR",
+        "currency_name": "Saudi Riyal",
+        "currency_symbol": "ر.س.‏",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 3.751666
+    },
+    "SBD": {
+        "country_code": "SB",
+        "currency_code": "SBD",
+        "currency_name": "Solomon Islands Dollar",
+        "currency_symbol": "SI$‏",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 8.034202
+    },
+    "SCR": {
+        "country_code": "SC",
+        "currency_code": "SCR",
+        "currency_name": "Seychelles rupees",
+        "currency_symbol": "Rs",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 21.204224
+    },
+    "SDG": {
+        "country_code": "SD",
+        "currency_code": "SDG",
+        "currency_name": "Sudanese Pound",
+        "currency_symbol": "SDG",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 55.325
+    },
+    "SEK": {
+        "country_code": "SE",
+        "currency_code": "SEK",
+        "currency_name": "Swedish Krona",
+        "currency_symbol": "kr",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 8.403425
+    },
+    "SGD": {
+        "country_code": "SG",
+        "currency_code": "SGD",
+        "currency_name": "Singapore Dollar",
+        "currency_symbol": "$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 1.33424
+    },
+    "SHP": {
+        "country_code": "SH",
+        "currency_code": "SHP",
+        "currency_name": "Saint Helena Pound",
+        "currency_symbol": "£",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 0.750216
+    },
+    "SLL": {
+        "country_code": "SL",
+        "currency_code": "SLL",
+        "currency_name": "Sierra Leonean leone",
+        "currency_symbol": "Le",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 10177.39262
+    },
+    "SOS": {
+        "country_code": "SO",
+        "currency_code": "SOS",
+        "currency_name": "Somali Shilling",
+        "currency_symbol": "Ssh",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 580.787938
+    },
+    "SRD": {
+        "country_code": "SR",
+        "currency_code": "SRD",
+        "currency_name": "Suriname Dollar",
+        "currency_symbol": "$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 14.154
+    },
+    "SSP": {
+        "country_code": "SS",
+        "currency_code": "SSP",
+        "currency_name": "South Sudanese Pound",
+        "currency_symbol": "£",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 130.26
+    },
+    "STD": {
+        "country_code": "ST",
+        "currency_code": "STD",
+        "currency_name": "Suriname Dollar",
+        "currency_symbol": "$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 20802.022905
+    },
+    "SYP": {
+        "country_code": "SY",
+        "currency_code": "SYP",
+        "currency_name": "Syrian Pound",
+        "currency_symbol": "ل.س.‏",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 512.831221
+    },
+    "SZL": {
+        "country_code": "SZ",
+        "currency_code": "SZL",
+        "currency_name": "Swazi lilangeni ",
+        "currency_symbol": "pl.",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 15.016718
+    },
+    "THB": {
+        "country_code": "TH",
+        "currency_code": "THB",
+        "currency_name": "Thai Baht",
+        "currency_symbol": "฿",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 30.1095
+    },
+    "TJS": {
+        "country_code": "TJ",
+        "currency_code": "TJS",
+        "currency_name": "Tajikistani somoni",
+        "currency_symbol": "SM",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 11.330015
+    },
+    "TMT": {
+        "country_code": "TM",
+        "currency_code": "TMT",
+        "currency_name": "Turkmenistan manat",
+        "currency_symbol": "T",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 3.5
+    },
+    "TND": {
+        "country_code": "TN",
+        "currency_code": "TND",
+        "currency_name": "Tunisian Dinar",
+        "currency_symbol": "د.ت.‏",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 2.7045
+    },
+    "TOP": {
+        "country_code": "TO",
+        "currency_code": "TOP",
+        "currency_name": "Tongan Paʻanga",
+        "currency_symbol": "T$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 2.282256
+    },
+    "TRY": {
+        "country_code": "TR",
+        "currency_code": "TRY",
+        "currency_name": "Turkish Lira",
+        "currency_symbol": "TL",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 7.8485
+    },
+    "TTD": {
+        "country_code": "TT",
+        "currency_code": "TTD",
+        "currency_name": "Trinidad and Tobago Dollar",
+        "currency_symbol": "$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 6.783871
+    },
+    "TWD": {
+        "country_code": "TW",
+        "currency_code": "TWD",
+        "currency_name": "New Taiwan Dollar",
+        "currency_symbol": "NT$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 28.1264
+    },
+    "TZS": {
+        "country_code": "TZ",
+        "currency_code": "TZS",
+        "currency_name": "Tanzanian Shilling",
+        "currency_symbol": "TSh",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 2319.30957
+    },
+    "UAH": {
+        "country_code": "UA",
+        "currency_code": "UAH",
+        "currency_name": "Ukrainian Hryvnia",
+        "currency_symbol": "₴",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 27.858959
+    },
+    "UGX": {
+        "country_code": "UG",
+        "currency_code": "UGX",
+        "currency_name": "Ugandan Shilling",
+        "currency_symbol": "USh",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 3670.84392
+    },
+    "USD": {
+        "country_code": "AS",
+        "currency_code": "USD",
+        "currency_name": "US Dollar",
+        "currency_symbol": "$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 1
+    },
+    "UYU": {
+        "country_code": "UY",
+        "currency_code": "UYU",
+        "currency_name": "Uruguayan Peso",
+        "currency_symbol": "$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 42.463285
+    },
+    "UZS": {
+        "country_code": "UZ",
+        "currency_code": "UZS",
+        "currency_name": "Uzbekistan Som",
+        "currency_symbol": "UZS",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 10397.183716
+    },
+    "VEF": {
+        "country_code": "VE",
+        "currency_code": "VEF",
+        "currency_name": "Venezuelan Bolívar",
+        "currency_symbol": "Bs.F.",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 248487.642241
+    },
+    "VND": {
+        "country_code": "VN",
+        "currency_code": "VND",
+        "currency_name": "Vietnamese Dong",
+        "currency_symbol": "₫",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 23139.444152
+    },
+    "VUV": {
+        "country_code": "VU",
+        "currency_code": "VUV",
+        "currency_name": "Vanuatu Vatu",
+        "currency_symbol": "VT",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 111.115983
+    },
+    "WST": {
+        "country_code": "WS",
+        "currency_code": "WST",
+        "currency_name": "Samoan tālā",
+        "currency_symbol": "WS$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 2.568927
+    },
+    "XAF": {
+        "country_code": "TD",
+        "currency_code": "XAF",
+        "currency_name": "CFA Franc BEAC",
+        "currency_symbol": "FCFA",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 540.07723
+    },
+    "XCD": {
+        "country_code": "AI",
+        "currency_code": "XCD",
+        "currency_name": "East Caribbean Dollar",
+        "currency_symbol": "EC$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 2.70255
+    },
+    "XOF": {
+        "country_code": "TG",
+        "currency_code": "XOF",
+        "currency_name": "CFA Franc BCEAO",
+        "currency_symbol": "CFA",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 540.07723
+    },
+    "XPF": {
+        "country_code": "NC",
+        "currency_code": "XPF",
+        "currency_name": "CFP franc",
+        "currency_symbol": "F",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 98.250887
+    },
+    "YER": {
+        "country_code": "YE",
+        "currency_code": "YER",
+        "currency_name": "Yemeni Rial",
+        "currency_symbol": "ر.ي.‏",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 249.899884
+    },
+    "ZAR": {
+        "country_code": "ZA",
+        "currency_code": "ZAR",
+        "currency_name": "South African Rand",
+        "currency_symbol": "R",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 15.025158
+    },
+    "ZMK": {
+        "country_code": "ZM",
+        "currency_code": "ZMK",
+        "currency_name": "Zambian Kwacha",
+        "currency_symbol": "ZK",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 0
+    },
+    "ZWL": {
+        "country_code": "ZW",
+        "currency_code": "ZWL",
+        "currency_name": "Zimbabwean dollar",
+        "currency_symbol": "$",
+        "update_date": "2020-12-15 00:01:01",
+        "usd_rate": 322
+    },
+    "response": "success"
+}
