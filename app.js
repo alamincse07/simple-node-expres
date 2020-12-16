@@ -1,39 +1,49 @@
-const http = require('http')
-const fs  = require('fs')
-const path  = require('path')
+const express = require('express');
+const morgan = require('morgan');
+const mongoose = require('mongoose');
+const blogRoutes = require('./routes/blogRoutes');
+const dotenv = require('dotenv')
+dotenv.config()
+// express app
+const app = express();
 
-var server = http.createServer((req, res)=>{
-    
-    var indexFilePath = path.resolve('index.html')
-    var shopFile = path.resolve('shop.html')
-    var currency = path.resolve('currency.json')
-    var errorFile = path.resolve('404.html')
-    var json_data = { url: req.url, time: new Date()} 
+// connect to mongodb & listen for requests
+//const dbURI = "mongodb+srv://netninja:test1234@net-ninja-tuts-del96.mongodb.net/node-tuts";
+const dbURI = process.env.DB_URL || ""
+const PORT = process.env.PORT || 3000
 
-    if(req.url === '/'){
-        res.writeHead(200, {"content-type" : "text/html"})
-        fs.createReadStream(indexFilePath, 'utf8').pipe(res)
-    }
-    else if( req.url =='/shop'){
-        res.writeHead(200, {"content-type" : "text/html"})
-        fs.createReadStream(shopFile, 'utf8').pipe(res)
-    }
-    else if( req.url =='/api'){
-        res.writeHead(200, {"content-type" : "application/json"})
-        res.end(JSON.stringify(json_data))
+mongoose.connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true })
+  .then(result => {
+    app.listen(PORT)
+    console.log(`app started  at ${PORT} and DB connented `)
+  })
+  .catch(err => console.log(err));
 
-    }
-    else if( req.url =='/api/currency'){
-        res.writeHead(200, {"content-type" : "application/json"})
-        fs.createReadStream(currency, 'utf8').pipe(res)
-    }
-    else{
-        res.writeHead(404, {"content-type" : "text/html"})
-        fs.createReadStream(errorFile, 'utf8').pipe(res)
-    }
-   
-   
-})
+// register view engine
+app.set('view engine', 'ejs');
 
-server.listen(8080, '127.0.0.1')
-console.log('app running... on  port 805580')
+// middleware & static files
+app.use(express.static('public'));
+app.use(express.urlencoded({ extended: true }));
+app.use(morgan('dev'));
+app.use((req, res, next) => {
+  res.locals.path = req.path;
+  next();
+});
+
+// routes
+app.get('/', (req, res) => {
+  res.redirect('/blogs');
+});
+
+app.get('/about', (req, res) => {
+  res.render('about', { title: 'About' });
+});
+
+// blog routes
+app.use('/blogs', blogRoutes);
+
+// 404 page
+app.use((req, res) => {
+  res.status(404).render('404', { title: '404' });
+});
